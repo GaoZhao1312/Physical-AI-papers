@@ -11,6 +11,7 @@
 - **Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation** (2025). [[pdf]](https://arxiv.org/html/2502.08826v2)
 - **Multimodal large language models and physics visual tasks: comparative analysis of performance and costs** (2025). [[pdf]](https://arxiv.org/pdf/2506.19662v1)
 - **A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models** (2024). [[pdf]](https://arxiv.org/abs/2307.12980)
+- **Generative Physical AI in Vision: A Survey** (2025). [[pdf]](https://arxiv.org/abs/2501.10928)
 
 ### Understanding/Reasoning/Generation
 - **Physics Context Builders: A Modular Framework for Physical Reasoning in Vision-Language Models** (2025). [[pdf]](https://arxiv.org/abs/2412.08619)
@@ -19,7 +20,6 @@
 - **ABench-Physics: Benchmarking Physical Reasoning in LLMs via High-Difficulty and Dynamic Physics Problems** (2025). [[pdf]](https://arxiv.org/abs/2507.04766)
 - **Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning** (2025). [[pdf]](https://arxiv.org/abs/2503.15558)
 - **Deep Correlated Prompting for Visual Recognition with Missing Modalities** (2024). [[pdf]](https://arxiv.org/abs/2410.06558)
-- **Generative Physical AI in Vision: A Survey** (2025). [[pdf]](https://arxiv.org/abs/2501.10928)
 - **Inducing Causal World Models in LLMs for Zero-Shot Physical Reasoning** (2025). [[pdf]](https://arxiv.org/abs/2507.19855)
 - **Multimodal Chain-of-Thought Reasoning in Language Models** (2024). [[pdf]](https://arxiv.org/abs/2302.00923)
 - **PhyX: Does Your Model Have the "Wits" for Physical Reasoning?** (2025). [[pdf]](https://arxiv.org/abs/2505.15929)
