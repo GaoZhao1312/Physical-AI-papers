@@ -33,4 +33,6 @@
 - **Visualized Text-to-Image Retrieval** (2025). [[pdf]](https://arxiv.org/abs/2505.20291)
 - **Universal Multimodal Representation for Language Understanding** (2023). [[pdf]](https://arxiv.org/abs/2301.03344)
 - **Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video** (2024). [[pdf]](https://arxiv.org/abs/2404.09833)
+- **Vision as LoRA** (2025). [[pdf]](https://arxiv.org/abs/2503.20680)
+- **Reconstruction Alignment Improves Unified Multimodal Models** (2025). [[pdf]](https://arxiv.org/pdf/2509.07295)
 
