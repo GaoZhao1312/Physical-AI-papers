@@ -35,4 +35,5 @@
 - **Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video** (2024). [[pdf]](https://arxiv.org/abs/2404.09833)
 - **Vision as LoRA** (2025). [[pdf]](https://arxiv.org/abs/2503.20680)
 - **Reconstruction Alignment Improves Unified Multimodal Models** (2025). [[pdf]](https://arxiv.org/pdf/2509.07295)
+- **Reconstructive Visual Instruction Tuning** (2025). [[pdf]](https://arxiv.org/pdf/2410.09575)
 
