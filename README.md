@@ -7,6 +7,7 @@
 - **LLaVA-OneVision: Easy Visual Task Transfer** (2024). [[pdf]](https://arxiv.org/abs/2408.03326)
 - **LoRA: Low-Rank Adaptation of Large Language Models** (2021). [[pdf]](https://arxiv.org/abs/2106.09685)
 - **Proximal Policy Optimization Algorithms** (2017). [[pdf]](https://arxiv.org/abs/1707.06347)
+- **Vision as LoRA** (2025). [[pdf]](https://arxiv.org/abs/2503.20680)
   
 ### Survey
 - **A Survey of Camouflaged Object Detection and Beyond** (2024). [[pdf]](https://arxiv.org/pdf/2408.14562)
@@ -36,7 +37,6 @@
 - **Visualized Text-to-Image Retrieval** (2025). [[pdf]](https://arxiv.org/abs/2505.20291)
 - **Universal Multimodal Representation for Language Understanding** (2023). [[pdf]](https://arxiv.org/abs/2301.03344)
 - **Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video** (2024). [[pdf]](https://arxiv.org/abs/2404.09833)
-- **Vision as LoRA** (2025). [[pdf]](https://arxiv.org/abs/2503.20680)
 - **Reconstruction Alignment Improves Unified Multimodal Models** (2025). [[pdf]](https://arxiv.org/pdf/2509.07295)
 - **Reconstructive Visual Instruction Tuning** (2025). [[pdf]](https://arxiv.org/pdf/2410.09575)
 - **QuestA: Expanding Reasoning Capacity in LLMs via Question Augmentation** (2025). [[pdf]](https://arxiv.org/abs/2507.13266)
