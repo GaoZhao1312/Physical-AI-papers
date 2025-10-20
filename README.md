@@ -6,6 +6,7 @@
 - **Improved Baselines with Visual Instruction Tuning** (2024). [[pdf]](https://arxiv.org/abs/2310.03744)
 - **LLaVA-OneVision: Easy Visual Task Transfer** (2024). [[pdf]](https://arxiv.org/abs/2408.03326)
 - **LoRA: Low-Rank Adaptation of Large Language Models** (2021). [[pdf]](https://arxiv.org/abs/2106.09685)
+- **Proximal Policy Optimization Algorithms** (2017). [[pdf]](https://arxiv.org/abs/1707.06347)
   
 ### Survey
 - **A Survey of Camouflaged Object Detection and Beyond** (2024). [[pdf]](https://arxiv.org/pdf/2408.14562)
@@ -13,6 +14,7 @@
 - **Multimodal large language models and physics visual tasks: comparative analysis of performance and costs** (2025). [[pdf]](https://arxiv.org/pdf/2506.19662v1)
 - **A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models** (2024). [[pdf]](https://arxiv.org/abs/2307.12980)
 - **Generative Physical AI in Vision: A Survey** (2025). [[pdf]](https://arxiv.org/abs/2501.10928)
+- **Does Physics Knowledge Emerge in Frontier Models?** (2025). [[pdf]](https://arxiv.org/abs/2510.06251)
 
 ### Understanding/Reasoning/Generation
 - **Physics Context Builders: A Modular Framework for Physical Reasoning in Vision-Language Models** (2025). [[pdf]](https://arxiv.org/abs/2412.08619)
@@ -38,4 +40,10 @@
 - **Reconstruction Alignment Improves Unified Multimodal Models** (2025). [[pdf]](https://arxiv.org/pdf/2509.07295)
 - **Reconstructive Visual Instruction Tuning** (2025). [[pdf]](https://arxiv.org/pdf/2410.09575)
 - **QuestA: Expanding Reasoning Capacity in LLMs via Question Augmentation** (2025). [[pdf]](https://arxiv.org/abs/2507.13266)
+- **FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving** (2025). [[pdf]](https://arxiv.org/abs/2505.17685)
+- **Inferring Dynamic Physical Properties from Video Foundation Models** (2025). [[pdf]](https://arxiv.org/abs/2510.02311)
+- **Introducing Visual Perception Token into Multimodal Large Language Model** (2025). [[pdf]](https://arxiv.org/abs/2502.17425)
+- **Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection** (2025). [[pdf]](https://arxiv.org/abs/2510.08073)
+- **TRAVL: A Recipe for Making Video-Language Models Better Judges of Physics Implausibility** (2025). [[pdf]](https://arxiv.org/abs/2510.07550)
+
 
