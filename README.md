@@ -8,6 +8,9 @@
 - **LoRA: Low-Rank Adaptation of Large Language Models** (2021). [[pdf]](https://arxiv.org/abs/2106.09685)
 - **Proximal Policy Optimization Algorithms** (2017). [[pdf]](https://arxiv.org/abs/1707.06347)
 - **Vision as LoRA** (2025). [[pdf]](https://arxiv.org/abs/2503.20680)
+- **Proximal Policy Optimization Algorithms** (2017). [[pdf]](https://arxiv.org/abs/1707.06347)
+- **Mamba: Linear-Time Sequence Modeling with Selective State Spaces** (2023). [[pdf]](https://arxiv.org/abs/2312.00752)
+- **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model** (2024). [[pdf]](https://arxiv.org/abs/2401.09417)
   
 ### Survey
 - **A Survey of Camouflaged Object Detection and Beyond** (2024). [[pdf]](https://arxiv.org/pdf/2408.14562)
