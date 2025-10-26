@@ -11,6 +11,7 @@
 - **Proximal Policy Optimization Algorithms** (2017). [[pdf]](https://arxiv.org/abs/1707.06347)
 - **Mamba: Linear-Time Sequence Modeling with Selective State Spaces** (2023). [[pdf]](https://arxiv.org/abs/2312.00752)
 - **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model** (2024). [[pdf]](https://arxiv.org/abs/2401.09417)
+- **End-to-End Multi-Modal Diffusion Mamba** (2025). [[pdf]](https://arxiv.org/pdf/2510.13253)
   
 ### Survey
 - **A Survey of Camouflaged Object Detection and Beyond** (2024). [[pdf]](https://arxiv.org/pdf/2408.14562)
@@ -48,5 +49,6 @@
 - **Introducing Visual Perception Token into Multimodal Large Language Model** (2025). [[pdf]](https://arxiv.org/abs/2502.17425)
 - **Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection** (2025). [[pdf]](https://arxiv.org/abs/2510.08073)
 - **TRAVL: A Recipe for Making Video-Language Models Better Judges of Physics Implausibility** (2025). [[pdf]](https://arxiv.org/abs/2510.07550)
+- **Enhancing Physical Plausibility in Video Generation by Reasoning the Implausibility** (2025). [[pdf]](https://arxiv.org/pdf/2509.24702)
 
 
