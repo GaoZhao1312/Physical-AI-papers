@@ -50,5 +50,6 @@
 - **Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection** (2025). [[pdf]](https://arxiv.org/abs/2510.08073)
 - **TRAVL: A Recipe for Making Video-Language Models Better Judges of Physics Implausibility** (2025). [[pdf]](https://arxiv.org/abs/2510.07550)
 - **Enhancing Physical Plausibility in Video Generation by Reasoning the Implausibility** (2025). [[pdf]](https://arxiv.org/pdf/2509.24702)
-
-
+- **Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation** (2025). [[pdf]](https://arxiv.org/abs/2508.10858)
+- **Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces** (2025). [[pdf]](https://arxiv.org/abs/2506.00123)
+- **PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language Models in Physical Environments** (2025). [[pdf]](https://arxiv.org/html/2510.21111v1)
