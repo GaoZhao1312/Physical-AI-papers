@@ -53,3 +53,5 @@
 - **Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation** (2025). [[pdf]](https://arxiv.org/abs/2508.10858)
 - **Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces** (2025). [[pdf]](https://arxiv.org/abs/2506.00123)
 - **PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language Models in Physical Environments** (2025). [[pdf]](https://arxiv.org/html/2510.21111v1)
+- **WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation** (2025). [[pdf]](https://arxiv.org/abs/2503.08153)
+- **VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation** (2025). [[pdf]](https://arxiv.org/abs/2511.02778)
