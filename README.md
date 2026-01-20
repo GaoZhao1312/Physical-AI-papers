@@ -59,3 +59,4 @@
 - **PhyMAGIC: Physical Motion-Aware Generative Inference with Confidence-guided LLM** (2025). [[pdf]](https://arxiv.org/abs/2505.16456)
 - **Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark** (2025). [[pdf]](https://arxiv.org/abs/2510.13759)
 - **PhysGaia: A Physics-Aware Dataset of Multi-Body Interactions for Dynamic Novel View Synthesis** (2025). [[pdf]](https://arxiv.org/pdf/2506.02794)
+- **PhyRPR: Training-Free Physics-Constrained Video Generation** (2026). [[pdf]]([https://arxiv.org/pdf/2506.02794](https://arxiv.org/abs/2601.09255))
